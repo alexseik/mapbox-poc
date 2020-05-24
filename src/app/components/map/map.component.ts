@@ -14,4 +14,12 @@ export class MapComponent implements OnInit {
     this.mapService.createMap('map');
   }
 
+  airStationsToggle(event) {
+    this.mapService.toogleLayer('airstationsLayer', event.target.checked)
+  }
+
+  meteoStationsToggle(event) {
+    this.mapService.toogleLayer('meteostationsLayer', event.target.checked)
+  }
+
 }

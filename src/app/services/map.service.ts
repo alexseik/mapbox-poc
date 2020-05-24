@@ -46,6 +46,7 @@ export class MapService {
       this.getAirStations().subscribe(data => {
         this.addSource(this.map, 'airstations', data);
         this.addAirstationsLayer(this.map);
+        this.addClickOnAirstation(this.map);
       })
       this.getMeteoStations().subscribe(data => {
         this.addSource(this.map, 'meteostations', data);
@@ -96,6 +97,20 @@ export class MapService {
         'circle-color': 'Green'
       }
     });
+  }
+
+  addClickOnAirstation(map) {
+    map.on('click', 'airstationsLayer', (event) => {
+      new mapboxgl.Popup()
+        .setLngLat(event.features[0].geometry.coordinates)
+        .setHTML(`<span class="tag">${event.features[0].properties.estacion}</span>`)
+        .addTo(map)
+    })
+  }
+
+  toogleLayer(layerName, visible) {
+    const mode = visible ? 'visible' : 'none';
+    this.map.setLayoutProperty(layerName, 'visibility', mode);
   }
 
 }

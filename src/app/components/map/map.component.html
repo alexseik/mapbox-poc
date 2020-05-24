@@ -1,1 +1,11 @@
+<div class="container">
+    <div class="field">
+        <label for="airstationsCheck"><span class="tag is-primary">Mostrar Air Stations</span></label>
+        <input id="airstationsCheck" (change)="airStationsToggle($event)" type="checkbox" name="switchExample" class="switch" checked="checked">
+    </div>
+    <div class="field">
+        <label for="meteostationsCheck"><span class="tag is-primary">Mostrar Meteo Stations</span></label>
+        <input id="meteostationsCheck" (change)="meteoStationsToggle($event)" type="checkbox" name="switchExample" class="switch" checked="checked">
+    </div>
+</div>
 <div id="map"></div>

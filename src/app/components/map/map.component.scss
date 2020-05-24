@@ -4,3 +4,20 @@
     bottom: 0;
     width: 100%;
 }
+
+.container {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    z-index: 1;
+}
+
+.field {
+    min-width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    label {
+        margin-right: 5px;
+    }
+}
