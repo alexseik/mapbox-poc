@@ -1,0 +1,683 @@
+{
+    "geojson": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079004,
+                    "codigo_cor": 4,
+                    "estacion": "Plaza España",
+                    "direccion": "Plaza de España",
+                    "lon_geogra": "3°42'43.91\"O",
+                    "lat_geogra": "40°25'25.98\"N",
+                    "altitud": 637,
+                    "v_viento": null,
+                    "dir_viento": null,
+                    "temperatura": "X",
+                    "hum_rel": null,
+                    "presion": null,
+                    "rad_solar": null,
+                    "precipitacion": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.71225667,
+                        40.423881531
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079008,
+                    "codigo_cor": 8,
+                    "estacion": "Escuelas Aguirre",
+                    "direccion": "Entre C/ Alcalá y C/ O’ Donell",
+                    "lon_geogra": "3°40'56.22\"O",
+                    "lat_geogra": "40°25'17.63\"N",
+                    "altitud": 672,
+                    "v_viento": null,
+                    "dir_viento": null,
+                    "temperatura": "X",
+                    "hum_rel": "X",
+                    "presion": null,
+                    "rad_solar": null,
+                    "precipitacion": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.682315826,
+                        40.421554565
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079016,
+                    "codigo_cor": 16,
+                    "estacion": "Arturo Soria",
+                    "direccion": "C/ Arturo Soria esq. C/ Vizconde de los Asilos",
+                    "lon_geogra": "3°38'21.17\"O",
+                    "lat_geogra": "40°26'24.20\"N",
+                    "altitud": 695,
+                    "v_viento": null,
+                    "dir_viento": null,
+                    "temperatura": "X",
+                    "hum_rel": "X",
+                    "presion": null,
+                    "rad_solar": null,
+                    "precipitacion": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.639242172,
+                        40.440044403
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079018,
+                    "codigo_cor": 18,
+                    "estacion": "Farolillo",
+                    "direccion": "Calle Farolillo - C/Ervigio",
+                    "lon_geogra": "3°43'54.61\"O",
+                    "lat_geogra": "40°23'41.22\"N",
+                    "altitud": 632,
+                    "v_viento": null,
+                    "dir_viento": null,
+                    "temperatura": "X",
+                    "hum_rel": null,
+                    "presion": null,
+                    "rad_solar": null,
+                    "precipitacion": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.731835604,
+                        40.39478302
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079024,
+                    "codigo_cor": 24,
+                    "estacion": "Casa de Campo",
+                    "direccion": "Casa de Campo (Terminal del Teleférico)",
+                    "lon_geogra": "3°44'50.44\"O",
+                    "lat_geogra": "40°25'9.69\"N",
+                    "altitud": 646,
+                    "v_viento": "X",
+                    "dir_viento": "X",
+                    "temperatura": "X",
+                    "hum_rel": "X",
+                    "presion": "X",
+                    "rad_solar": "X",
+                    "precipitacion": "X"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.747344494,
+                        40.4193573
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079035,
+                    "codigo_cor": 35,
+                    "estacion": "Plaza del Carmen",
+                    "direccion": "Plaza del Carmen esq. Tres Cruces.",
+                    "lon_geogra": "3°42'11.40\"O",
+                    "lat_geogra": "40°25'9.15\"N",
+                    "altitud": 660,
+                    "v_viento": null,
+                    "dir_viento": null,
+                    "temperatura": "X",
+                    "hum_rel": "X",
+                    "presion": null,
+                    "rad_solar": null,
+                    "precipitacion": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.703166246,
+                        40.419208527
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079036,
+                    "codigo_cor": 36,
+                    "estacion": "Moratalaz",
+                    "direccion": "Avd. Moratalaz esq. Camino de los Vinateros",
+                    "lon_geogra": "3°38'43.02\"O",
+                    "lat_geogra": "40°24'28.64\"N",
+                    "altitud": 671,
+                    "v_viento": null,
+                    "dir_viento": null,
+                    "temperatura": "X",
+                    "hum_rel": "X",
+                    "presion": null,
+                    "rad_solar": null,
+                    "precipitacion": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.645310402,
+                        40.407951355
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079038,
+                    "codigo_cor": 38,
+                    "estacion": "Cuatro Caminos",
+                    "direccion": "Avd. Pablo Iglesias esq. C/ Marqués de Lema",
+                    "lon_geogra": "3°42'25.64\"O",
+                    "lat_geogra": "40°26'43.97\"N",
+                    "altitud": 699,
+                    "v_viento": null,
+                    "dir_viento": null,
+                    "temperatura": "X",
+                    "hum_rel": "X",
+                    "presion": null,
+                    "rad_solar": null,
+                    "precipitacion": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.707130194,
+                        40.445545197
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079039,
+                    "codigo_cor": 39,
+                    "estacion": "Barrio del Pilar",
+                    "direccion": "Avd. Betanzos esq. C/ Monforte de Lemos",
+                    "lon_geogra": "3°42'41.53\"O",
+                    "lat_geogra": "40°28'41.64\"N",
+                    "altitud": 676,
+                    "v_viento": null,
+                    "dir_viento": null,
+                    "temperatura": "X",
+                    "hum_rel": "X",
+                    "presion": null,
+                    "rad_solar": null,
+                    "precipitacion": "X"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.711536407,
+                        40.478233337
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079054,
+                    "codigo_cor": 54,
+                    "estacion": "Ensanche de Vallecas",
+                    "direccion": "Avda La Gavia / Avda. Las Suertes",
+                    "lon_geogra": "3°36'43.70\"O",
+                    "lat_geogra": "40°22'22.84\"N",
+                    "altitud": 629,
+                    "v_viento": "X",
+                    "dir_viento": "X",
+                    "temperatura": "X",
+                    "hum_rel": "X",
+                    "presion": null,
+                    "rad_solar": "X",
+                    "precipitacion": "X"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.612139463,
+                        40.373012543
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079056,
+                    "codigo_cor": 56,
+                    "estacion": "Plaza Elíptica",
+                    "direccion": "Pza. Elíptica - Avda. Oporto",
+                    "lon_geogra": "3°43'7.54\"O",
+                    "lat_geogra": "40°23'6.10\"N",
+                    "altitud": 605,
+                    "v_viento": "X",
+                    "dir_viento": "X",
+                    "temperatura": "X",
+                    "hum_rel": "X",
+                    "presion": "X",
+                    "rad_solar": null,
+                    "precipitacion": "X"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.718767881,
+                        40.385032654
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079058,
+                    "codigo_cor": 58,
+                    "estacion": "El Pardo",
+                    "direccion": "Avda. La Guardia",
+                    "lon_geogra": "3°46'28.62\"O",
+                    "lat_geogra": "40°31'4.97\"N",
+                    "altitud": 612,
+                    "v_viento": null,
+                    "dir_viento": null,
+                    "temperatura": "X",
+                    "hum_rel": "X",
+                    "presion": null,
+                    "rad_solar": null,
+                    "precipitacion": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.774610043,
+                        40.518070221
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079059,
+                    "codigo_cor": 59,
+                    "estacion": "Juan Carlos I",
+                    "direccion": "Parque Juan Carlos I (frente oficinas mantenimiento)",
+                    "lon_geogra": "3º 36' 33\"O",
+                    "lat_geogra": "40º 27' 55''N",
+                    "altitud": 660,
+                    "v_viento": "X",
+                    "dir_viento": "X",
+                    "temperatura": "X",
+                    "hum_rel": "X",
+                    "presion": "X",
+                    "rad_solar": "X",
+                    "precipitacion": "X"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.616340637,
+                        40.460723877
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079102,
+                    "codigo_cor": 102,
+                    "estacion": "J.M.D. Moratalaz",
+                    "direccion": "C/ Fuente Carantona, 8",
+                    "lon_geogra": "3º 38' 13'' O",
+                    "lat_geogra": "40º 23' 55'' N",
+                    "altitud": 687,
+                    "v_viento": "X",
+                    "dir_viento": "X",
+                    "temperatura": "X",
+                    "hum_rel": "X",
+                    "presion": "X",
+                    "rad_solar": "X",
+                    "precipitacion": "X"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.635637045,
+                        40.399791718
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079103,
+                    "codigo_cor": 103,
+                    "estacion": "J.M.D. Villaverde",
+                    "direccion": "C/ Arroyo Bueno, 53",
+                    "lon_geogra": "3º 42' 39'' O",
+                    "lat_geogra": "40º 20' 58'' N",
+                    "altitud": 594,
+                    "v_viento": "X",
+                    "dir_viento": "X",
+                    "temperatura": "X",
+                    "hum_rel": "X",
+                    "presion": "X",
+                    "rad_solar": "X",
+                    "precipitacion": "X"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.70952487,
+                        40.350627899
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079104,
+                    "codigo_cor": 104,
+                    "estacion": "E.D.A.R. La China",
+                    "direccion": "Embajadores",
+                    "lon_geogra": "3º 40' 47'' O",
+                    "lat_geogra": "40º 21' 57'' N",
+                    "altitud": 566,
+                    "v_viento": "X",
+                    "dir_viento": "X",
+                    "temperatura": null,
+                    "hum_rel": null,
+                    "presion": null,
+                    "rad_solar": null,
+                    "precipitacion": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.679722071,
+                        40.365833282
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079106,
+                    "codigo_cor": 106,
+                    "estacion": "Centro Mpal. De Acústica",
+                    "direccion": "Autovía M-30 Km. 21.700",
+                    "lon_geogra": "3º 44' 24'' O",
+                    "lat_geogra": "40º 26' 32'' N",
+                    "altitud": 587,
+                    "v_viento": "X",
+                    "dir_viento": "X",
+                    "temperatura": "X",
+                    "hum_rel": "X",
+                    "presion": "X",
+                    "rad_solar": "X",
+                    "precipitacion": "X"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.74000001,
+                        40.442222595
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079107,
+                    "codigo_cor": 107,
+                    "estacion": "J.M.D. Hortaleza",
+                    "direccion": "Ctra. de Canillas, 2",
+                    "lon_geogra": "3º 39' 24'' O",
+                    "lat_geogra": "40º 27' 46'' N",
+                    "altitud": 715,
+                    "v_viento": "X",
+                    "dir_viento": "X",
+                    "temperatura": "X",
+                    "hum_rel": "X",
+                    "presion": "X",
+                    "rad_solar": "X",
+                    "precipitacion": "X"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.656666994,
+                        40.462776184
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079108,
+                    "codigo_cor": 108,
+                    "estacion": "Peñagrande",
+                    "direccion": "C.D.M. Peñagrande",
+                    "lon_geogra": "3°43'4.37\"O",
+                    "lat_geogra": "40°28'35.88\"N",
+                    "altitud": 660,
+                    "v_viento": "X",
+                    "dir_viento": "X",
+                    "temperatura": "X",
+                    "hum_rel": "X",
+                    "presion": "X",
+                    "rad_solar": "X",
+                    "precipitacion": "X"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.717880964,
+                        40.476634979
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079109,
+                    "codigo_cor": 109,
+                    "estacion": "J.M.D.Chamberí",
+                    "direccion": "Plaza de Chamberí, 4",
+                    "lon_geogra": "3°41'49.02\"O",
+                    "lat_geogra": "40°25'54.88\"N",
+                    "altitud": 678,
+                    "v_viento": null,
+                    "dir_viento": null,
+                    "temperatura": "X",
+                    "hum_rel": "X",
+                    "presion": null,
+                    "rad_solar": null,
+                    "precipitacion": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.696949959,
+                        40.431911469
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079110,
+                    "codigo_cor": 110,
+                    "estacion": "J.M.D.Centro",
+                    "direccion": "C/ Mayor, 72",
+                    "lon_geogra": "3°42'38.85\"O",
+                    "lat_geogra": "40°24'56.16\"N",
+                    "altitud": 647,
+                    "v_viento": null,
+                    "dir_viento": null,
+                    "temperatura": "X",
+                    "hum_rel": "X",
+                    "presion": null,
+                    "rad_solar": null,
+                    "precipitacion": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.710792065,
+                        40.415599823
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079111,
+                    "codigo_cor": 111,
+                    "estacion": "J.M.D.Chamartin",
+                    "direccion": "C/ Principe de Vergara, 142",
+                    "lon_geogra": "3°40'40.64\"O",
+                    "lat_geogra": "40°26'41.61\"N",
+                    "altitud": 704,
+                    "v_viento": null,
+                    "dir_viento": null,
+                    "temperatura": "X",
+                    "hum_rel": "X",
+                    "presion": null,
+                    "rad_solar": null,
+                    "precipitacion": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.680368662,
+                        40.422649384
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079112,
+                    "codigo_cor": 112,
+                    "estacion": "J.M.D.Vallecas 1",
+                    "direccion": "Avda. Albufera, 42",
+                    "lon_geogra": "3°39'59.24\"O",
+                    "lat_geogra": "40°23'47.30\"N",
+                    "altitud": 607,
+                    "v_viento": null,
+                    "dir_viento": null,
+                    "temperatura": "X",
+                    "hum_rel": "X",
+                    "presion": null,
+                    "rad_solar": null,
+                    "precipitacion": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.666455984,
+                        40.396472931
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079113,
+                    "codigo_cor": 113,
+                    "estacion": "J.M.D.Vallecas 2",
+                    "direccion": "Avda. Albufera, 42",
+                    "lon_geogra": "3°39'59.24\"O",
+                    "lat_geogra": "40°23'47.30\"N",
+                    "altitud": 607,
+                    "v_viento": null,
+                    "dir_viento": null,
+                    "temperatura": "X",
+                    "hum_rel": "X",
+                    "presion": null,
+                    "rad_solar": null,
+                    "precipitacion": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.666455984,
+                        40.396472931
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079114,
+                    "codigo_cor": 114,
+                    "estacion": "Matadero 01",
+                    "direccion": "Paseo de la Chopera, 10",
+                    "lon_geogra": "3°41'51.47\"O",
+                    "lat_geogra": "40°23'33.16\"N",
+                    "altitud": 570,
+                    "v_viento": null,
+                    "dir_viento": null,
+                    "temperatura": "X",
+                    "hum_rel": "X",
+                    "presion": null,
+                    "rad_solar": null,
+                    "precipitacion": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.697630882,
+                        40.392543793
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079115,
+                    "codigo_cor": 115,
+                    "estacion": "Matadero 02",
+                    "direccion": "Paseo de la Chopera, 10",
+                    "lon_geogra": "3°41'51.47\"O",
+                    "lat_geogra": "40°23'33.16\"N",
+                    "altitud": 570,
+                    "v_viento": null,
+                    "dir_viento": null,
+                    "temperatura": "X",
+                    "hum_rel": "X",
+                    "presion": null,
+                    "rad_solar": null,
+                    "precipitacion": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.697630882,
+                        40.392543793
+                    ]
+                }
+            }
+        ]
+    }
+}

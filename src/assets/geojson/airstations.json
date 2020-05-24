@@ -1,0 +1,655 @@
+{
+    "geojson": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079004,
+                    "codigo_cor": 4,
+                    "estacion": "Pza. de España",
+                    "direccion": "Plaza de España",
+                    "lon_geogra": "3°42'43.91\"O",
+                    "lat_geogra": "40°25'25.98\"N",
+                    "altitud": 637,
+                    "no2": "X",
+                    "so2": "X",
+                    "co": "X",
+                    "pm10": null,
+                    "pm2_5": null,
+                    "o3": null,
+                    "btx": null,
+                    "hc": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.71225667,
+                        40.423881531
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079008,
+                    "codigo_cor": 8,
+                    "estacion": "Escuelas Aguirre",
+                    "direccion": "Entre C/ Alcalá y C/ O’ Donell",
+                    "lon_geogra": "3°40'56.22\"O",
+                    "lat_geogra": "40°25'17.63\"N",
+                    "altitud": 672,
+                    "no2": "X",
+                    "so2": "X",
+                    "co": "X",
+                    "pm10": "X",
+                    "pm2_5": "X",
+                    "o3": "X",
+                    "btx": "X",
+                    "hc": "X"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.682315826,
+                        40.421554565
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079011,
+                    "codigo_cor": 11,
+                    "estacion": "Avda. Ramón y Cajal",
+                    "direccion": "Avda. Ramón y Cajal esq. C/ Príncipe de Vergara",
+                    "lon_geogra": "3°40'38.50\"O",
+                    "lat_geogra": "40°27'5.29\"N",
+                    "altitud": 708,
+                    "no2": "X",
+                    "so2": null,
+                    "co": null,
+                    "pm10": null,
+                    "pm2_5": null,
+                    "o3": null,
+                    "btx": "X",
+                    "hc": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.677349091,
+                        40.451473236
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079016,
+                    "codigo_cor": 16,
+                    "estacion": "Arturo Soria",
+                    "direccion": "C/ Arturo Soria esq. C/ Vizconde de los Asilos",
+                    "lon_geogra": "3°38'21.17\"O",
+                    "lat_geogra": "40°26'24.20\"N",
+                    "altitud": 695,
+                    "no2": "X",
+                    "so2": null,
+                    "co": "X",
+                    "pm10": null,
+                    "pm2_5": null,
+                    "o3": "X",
+                    "btx": null,
+                    "hc": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.639242172,
+                        40.440044403
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079017,
+                    "codigo_cor": 17,
+                    "estacion": "Villaverde",
+                    "direccion": "C/. Juan Peñalver",
+                    "lon_geogra": "3°42'47.89\"O",
+                    "lat_geogra": "40°20'49.74\"N",
+                    "altitud": 601,
+                    "no2": "X",
+                    "so2": "X",
+                    "co": null,
+                    "pm10": null,
+                    "pm2_5": null,
+                    "o3": "X",
+                    "btx": null,
+                    "hc": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.713316679,
+                        40.347148895
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079018,
+                    "codigo_cor": 18,
+                    "estacion": "Farolillo",
+                    "direccion": "Calle Farolillo - C/Ervigio",
+                    "lon_geogra": "3°43'54.61\"O",
+                    "lat_geogra": "40°23'41.22\"N",
+                    "altitud": 632,
+                    "no2": "X",
+                    "so2": "X",
+                    "co": "X",
+                    "pm10": "X",
+                    "pm2_5": null,
+                    "o3": "X",
+                    "btx": "X",
+                    "hc": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.731835604,
+                        40.39478302
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079024,
+                    "codigo_cor": 24,
+                    "estacion": "Casa de Campo",
+                    "direccion": "Casa de Campo (Terminal del Teleférico)",
+                    "lon_geogra": "3°44'50.44\"O",
+                    "lat_geogra": "40°25'9.69\"N",
+                    "altitud": 646,
+                    "no2": "X",
+                    "so2": "X",
+                    "co": "X",
+                    "pm10": "X",
+                    "pm2_5": "X",
+                    "o3": "X",
+                    "btx": "X",
+                    "hc": "X"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.747344494,
+                        40.4193573
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079027,
+                    "codigo_cor": 27,
+                    "estacion": "Barajas Pueblo",
+                    "direccion": "C/. Júpiter, 21 (Barajas)",
+                    "lon_geogra": "3°34'48.10\"O",
+                    "lat_geogra": "40°28'36.93\"N",
+                    "altitud": 620,
+                    "no2": "X",
+                    "so2": null,
+                    "co": null,
+                    "pm10": null,
+                    "pm2_5": null,
+                    "o3": "X",
+                    "btx": null,
+                    "hc": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.580025911,
+                        40.476917267
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079035,
+                    "codigo_cor": 35,
+                    "estacion": "Pza. del Carmen",
+                    "direccion": "Plaza del Carmen esq. Tres Cruces.",
+                    "lon_geogra": "3°42'11.40\"O",
+                    "lat_geogra": "40°25'9.15\"N",
+                    "altitud": 660,
+                    "no2": "X",
+                    "so2": "X",
+                    "co": "X",
+                    "pm10": null,
+                    "pm2_5": null,
+                    "o3": "X",
+                    "btx": null,
+                    "hc": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.703166246,
+                        40.419208527
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079036,
+                    "codigo_cor": 36,
+                    "estacion": "Moratalaz",
+                    "direccion": "Avd. Moratalaz esq. Camino de los Vinateros",
+                    "lon_geogra": "3°38'43.02\"O",
+                    "lat_geogra": "40°24'28.64\"N",
+                    "altitud": 671,
+                    "no2": "X",
+                    "so2": "X",
+                    "co": "X",
+                    "pm10": "X",
+                    "pm2_5": null,
+                    "o3": null,
+                    "btx": null,
+                    "hc": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.645310402,
+                        40.407951355
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079038,
+                    "codigo_cor": 38,
+                    "estacion": "Cuatro Caminos",
+                    "direccion": "Avda. Pablo Iglesias esq. C/ Marqués de Lema",
+                    "lon_geogra": "3°42'25.64\"O",
+                    "lat_geogra": "40°26'43.97\"N",
+                    "altitud": 699,
+                    "no2": "X",
+                    "so2": "X",
+                    "co": null,
+                    "pm10": "X",
+                    "pm2_5": "X",
+                    "o3": null,
+                    "btx": "X",
+                    "hc": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.707130194,
+                        40.445545197
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079039,
+                    "codigo_cor": 39,
+                    "estacion": "Barrio del Pilar",
+                    "direccion": "Avd. Betanzos esq. C/ Monforte de Lemos",
+                    "lon_geogra": "3°42'41.53\"O",
+                    "lat_geogra": "40°28'41.64\"N",
+                    "altitud": 676,
+                    "no2": "X",
+                    "so2": null,
+                    "co": "X",
+                    "pm10": null,
+                    "pm2_5": null,
+                    "o3": "X",
+                    "btx": null,
+                    "hc": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.711536407,
+                        40.478233337
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079040,
+                    "codigo_cor": 40,
+                    "estacion": "Vallecas",
+                    "direccion": "C/ Arroyo del Olivar esq. C/ Río Grande.",
+                    "lon_geogra": "3°39'5.50\"O",
+                    "lat_geogra": "40°23'17.33\"N",
+                    "altitud": 677,
+                    "no2": "X",
+                    "so2": "X",
+                    "co": null,
+                    "pm10": "X",
+                    "pm2_5": null,
+                    "o3": null,
+                    "btx": null,
+                    "hc": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.651528597,
+                        40.388149261
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079047,
+                    "codigo_cor": 47,
+                    "estacion": "Mendez Alvaro",
+                    "direccion": "C/ Juan de Mariana / Pza. Amanecer Mendez Alvaro",
+                    "lon_geogra": "3°41'12.57\"O",
+                    "lat_geogra": "40°23'53.17\"N",
+                    "altitud": 600,
+                    "no2": "X",
+                    "so2": null,
+                    "co": null,
+                    "pm10": "X",
+                    "pm2_5": "X",
+                    "o3": null,
+                    "btx": null,
+                    "hc": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.686813831,
+                        40.398097992
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079048,
+                    "codigo_cor": 48,
+                    "estacion": "Castellana",
+                    "direccion": "C/ Jose Gutierrez Abascal",
+                    "lon_geogra": "3°41'25.34\"O",
+                    "lat_geogra": "40°26'23.61\"N",
+                    "altitud": 680,
+                    "no2": "X",
+                    "so2": null,
+                    "co": null,
+                    "pm10": "X",
+                    "pm2_5": "X",
+                    "o3": null,
+                    "btx": null,
+                    "hc": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.690372944,
+                        40.439891815
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079050,
+                    "codigo_cor": 50,
+                    "estacion": "Plaza Castilla",
+                    "direccion": "Plaza Castilla (Canal)",
+                    "lon_geogra": "3°41'19.48\"O",
+                    "lat_geogra": "40°27'56.10\"N",
+                    "altitud": 728,
+                    "no2": "X",
+                    "so2": null,
+                    "co": null,
+                    "pm10": "X",
+                    "pm2_5": "X",
+                    "o3": null,
+                    "btx": null,
+                    "hc": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.688744783,
+                        40.465583801
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079054,
+                    "codigo_cor": 54,
+                    "estacion": "Ensanche de Vallecas",
+                    "direccion": "Avda La Gavia / Avda. Las Suertes",
+                    "lon_geogra": "3°36'43.70\"O",
+                    "lat_geogra": "40°22'22.84\"N",
+                    "altitud": 629,
+                    "no2": "X",
+                    "so2": null,
+                    "co": null,
+                    "pm10": null,
+                    "pm2_5": null,
+                    "o3": "X",
+                    "btx": null,
+                    "hc": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.612139463,
+                        40.373012543
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079055,
+                    "codigo_cor": 55,
+                    "estacion": "Urb. Embajada",
+                    "direccion": "C/ Riaño (Barajas)",
+                    "lon_geogra": "3°34'50.03\"O",
+                    "lat_geogra": "40°27'44.51\"N",
+                    "altitud": 619,
+                    "no2": "X",
+                    "so2": null,
+                    "co": null,
+                    "pm10": "X",
+                    "pm2_5": null,
+                    "o3": null,
+                    "btx": "X",
+                    "hc": "X"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.580564976,
+                        40.462364197
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079056,
+                    "codigo_cor": 56,
+                    "estacion": "Pza. Elíptica",
+                    "direccion": "Pza. Elíptica - Avda. Oporto",
+                    "lon_geogra": "3°43'7.54\"O",
+                    "lat_geogra": "40°23'6.10\"N",
+                    "altitud": 605,
+                    "no2": "X",
+                    "so2": null,
+                    "co": "X",
+                    "pm10": "X",
+                    "pm2_5": "X",
+                    "o3": "X",
+                    "btx": null,
+                    "hc": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.718767881,
+                        40.385032654
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079057,
+                    "codigo_cor": 57,
+                    "estacion": "Sanchinarro",
+                    "direccion": "C/ Princesa de Eboli esq C/ Maria Tudor",
+                    "lon_geogra": "3°39'37.86\"O",
+                    "lat_geogra": "40°29'39.12\"N",
+                    "altitud": 700,
+                    "no2": "X",
+                    "so2": "X",
+                    "co": "X",
+                    "pm10": "X",
+                    "pm2_5": null,
+                    "o3": null,
+                    "btx": null,
+                    "hc": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.660517216,
+                        40.49420166
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079058,
+                    "codigo_cor": 58,
+                    "estacion": "El Pardo",
+                    "direccion": "Avda. La Guardia",
+                    "lon_geogra": "3°46'28.62\"O",
+                    "lat_geogra": "40°31'4.97\"N",
+                    "altitud": 612,
+                    "no2": "X",
+                    "so2": null,
+                    "co": null,
+                    "pm10": null,
+                    "pm2_5": null,
+                    "o3": "X",
+                    "btx": null,
+                    "hc": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.774610043,
+                        40.518070221
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079059,
+                    "codigo_cor": 59,
+                    "estacion": "Juan Carlos I",
+                    "direccion": "Parque Juan Carlos I (frente oficinas mantenimiento)",
+                    "lon_geogra": "3º 36' 33\"O",
+                    "lat_geogra": "40º 27' 55''N",
+                    "altitud": 660,
+                    "no2": "X",
+                    "so2": null,
+                    "co": null,
+                    "pm10": null,
+                    "pm2_5": null,
+                    "o3": "X",
+                    "btx": null,
+                    "hc": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.616340637,
+                        40.460723877
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079060,
+                    "codigo_cor": 60,
+                    "estacion": "Tres Olivos",
+                    "direccion": "Plaza Tres Olivos",
+                    "lon_geogra": "3°41'23.03\"O",
+                    "lat_geogra": "40°30'1.97\"N",
+                    "altitud": 715,
+                    "no2": "X",
+                    "so2": null,
+                    "co": null,
+                    "pm10": "X",
+                    "pm2_5": null,
+                    "o3": "X",
+                    "btx": null,
+                    "hc": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.689730883,
+                        40.500549316
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "codigo": 28079049,
+                    "codigo_cor": 49,
+                    "estacion": "Parque del Retiro",
+                    "direccion": "Paseo Venezuela- Casa de Vacas",
+                    "lon_geogra": "3º 40' 57''O",
+                    "lat_geogra": "40º 24' 52''N",
+                    "altitud": 662,
+                    "no2": "X",
+                    "so2": null,
+                    "co": null,
+                    "pm10": null,
+                    "pm2_5": null,
+                    "o3": "X",
+                    "btx": null,
+                    "hc": null
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.682499886,
+                        40.411109924
+                    ]
+                }
+            }
+        ]
+    }
+}
