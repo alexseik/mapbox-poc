@@ -41,15 +41,15 @@ export class MapService {
       center: [this.longitude, this.latitude],
       zoom: 11
     });
-    const that = this;
+    // const that = this;
     this.map.on('load', () => {
       this.getAirStations().subscribe(data => {
-        that.addSource(that.map, 'airstations', data);
-        that.addAirstationsLayer(that.map);
+        this.addSource(this.map, 'airstations', data);
+        this.addAirstationsLayer(this.map);
       })
       this.getMeteoStations().subscribe(data => {
-        that.addSource(that.map, 'meteostations', data);
-        that.addMeteostationsLayer(that.map);
+        this.addSource(this.map, 'meteostations', data);
+        this.addMeteostationsLayer(this.map);
       })
     })
     return this.map;
